@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studentenrollmentassingment/static/css/main.a247c4d5.css",
+    "main.js": "/studentenrollmentassingment/static/js/main.2a3a886c.js",
+    "index.html": "/studentenrollmentassingment/index.html",
+    "main.a247c4d5.css.map": "/studentenrollmentassingment/static/css/main.a247c4d5.css.map",
+    "main.2a3a886c.js.map": "/studentenrollmentassingment/static/js/main.2a3a886c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a247c4d5.css",
+    "static/js/main.2a3a886c.js"
+  ]
+}
